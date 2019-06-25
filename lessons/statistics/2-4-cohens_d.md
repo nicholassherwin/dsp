@@ -1,4 +1,5 @@
 [Think Stats Chapter 2 Exercise 4] 
+
 (function provided by thinkstats to compute the difference in means expressed in number of standard deviations:)
 def CohenEffectSize(group1, group2):
 """Computes Cohen's effect size for two groups.
