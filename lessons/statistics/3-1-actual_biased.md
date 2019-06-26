@@ -27,6 +27,8 @@ thinkplot.Config(xlabel='children_in_household', ylabel='PMF')
 
 print(unbiased_pmf.Mean(), biased_pmf.Mean())
 
+Output: 1.024205155043831 2.403679100664282
+
 As expected, the mean for the biased results is much higher.
 
  
