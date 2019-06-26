@@ -93,7 +93,16 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+The Bayesian school models uncertainty by a probability distribution over hypotheses.
+One’s ability to make inferences depends on one’s degree of confidence in the chosen prior,
+and the robustness of the findings to alternate prior distributions may be relevant and
+important.
+
+The frequentist school only uses conditional distributions of data given specific hypotheses.
+The presumption is that some hypothesis (parameter specifying the conditional distribution
+of the data) is true and that the observed data is sampled from that distribution. In
+particular, the frequentist approach does not depend on a subjective prior that may vary
+from one investigator to another.
 
 ---
 
